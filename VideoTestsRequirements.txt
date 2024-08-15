@@ -1,0 +1,6 @@
+openai
+python-dotenv
+openpyxl
+google.generativeai
+anthropic
+ollama
